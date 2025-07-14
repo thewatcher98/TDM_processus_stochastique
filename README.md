@@ -1,4 +1,4 @@
-# TDM_Proc_Stoc
+# Stochastic Processing and Analysis
 
 Stochastic Processing and Analysis Notebook  
 **Authors:** OUEDRAOGO, GETACHEW, RIANO
